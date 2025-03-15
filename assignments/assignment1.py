@@ -77,3 +77,10 @@ def find_range(numbers):
     if not numbers:
         raise ValueError("The list is empty")
     return max(numbers) - min(numbers)
+
+if __name__ == "__main__":
+    numbers = [1, 2, 3, 4, 5]
+    print(calculate_mean(numbers))
+    print(find_median(numbers))
+    print(count_frequency(numbers))
+    print(find_range(numbers))
