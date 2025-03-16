@@ -1,5 +1,5 @@
 Step 1. Assignment Description
-Create a file named assignments/assignment_pandas.py with the following instructions (you may distribute this as a PDF or include it in the repository):
+Create a file named assignments/assignment2.py with the following instructions (you may distribute this as a PDF or include it in the repository):
 Case Study: Employee Salary Analysis
 In this assignment, you are given data about employees in a CSV file named employees.csv (assume this file is provided with the following columns:
 
